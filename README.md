@@ -4,6 +4,6 @@ The RRT and RRT* algorithms are approaches to efficiently explore a configuratio
 Both algorithms are implemented as well as tools for visualizing the rapidly-exploring random tree as it evolves over time. 
 
 In addition, the implementation presumes to have direct control over linear and angular velocities instead of positions, approaching real-life use cases where drivers have direct control over acceleration. 
-This is the [**kinematic** motion planning]{https://en.wikipedia.org/wiki/Robot_kinematics} setting for a car with [holonomic constraints]{https://en.wikipedia.org/wiki/Holonomic_constraints} on its possible configurations. 
+This is the [**kinematic** motion planning](https://en.wikipedia.org/wiki/Robot_kinematics) setting for a car with [holonomic constraints](https://en.wikipedia.org/wiki/Holonomic_constraints) on its possible configurations. 
 
 See the report for more details and example visualizations.
